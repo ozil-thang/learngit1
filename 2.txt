@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sua loi tren 2.txt
+=======
+modify from beta
+>>>>>>> C10
